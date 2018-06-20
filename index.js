@@ -4,4 +4,4 @@ let welcomeMessage = `Welcome to Klossybook, ${currentUser}!`
 
 let excitedWelcomeMessage = `WELCOME TO KLOSSYBOOK, ${currentUser.toUpperCase()}!`;
 
-let shortGreeting = `Welcome, ${currentUsercharAt(0);}!`;
+let shortGreeting = `Welcome, ${currentUser.charAt(0)}!`;
