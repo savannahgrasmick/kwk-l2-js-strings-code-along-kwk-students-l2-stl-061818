@@ -1,4 +1,4 @@
 let currentUser = "Savannah";
 
-let welcomeMessage = ""
+let welcomeMessage = "Welcome to Klossybook"
 
