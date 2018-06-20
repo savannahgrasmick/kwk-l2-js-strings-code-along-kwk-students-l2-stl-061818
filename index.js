@@ -2,4 +2,4 @@ let currentUser = "Savannah";
 
 let welcomeMessage = `Welcome to Klossybook, ${currentUser}!`
 
-let excitedWelcomeMessage = ""
+let excitedWelcomeMessage = "WELCOME TO KLOSSYBOOK, ";
